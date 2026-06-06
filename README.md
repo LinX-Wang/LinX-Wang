@@ -50,8 +50,12 @@ My current interests center on remote sensing, multimodal learning, vision-langu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LinX-Wang&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=F59E0B&text_color=334155&bg_color=ffffff00" alt="LinX GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinX-Wang&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=ffffff00" alt="LinX top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github" alt="LinX GitHub profile summary" />
+
+<br />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinX-Wang&theme=github" alt="LinX GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinX-Wang&theme=github" alt="LinX repository languages" />
 
 <br />
 

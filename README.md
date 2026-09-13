@@ -20,9 +20,12 @@
 
 ## About me
 
-I am **Wang Shuai**, also known as **LinX** on GitHub. After earning my B.Eng. from **Hohai University**, I joined the **School of Automation at Northwestern Polytechnical University (NPU)** as a first-year direct Ph.D. student.
+I am **Wang Shuai**, also known as **LinX** on GitHub.<br />
+After earning my B.Eng. from **Hohai University**, I joined the **School of Automation at Northwestern Polytechnical University (NPU)**.<br />
+I am now a **first-year direct Ph.D. student**.<br /><br />
 
-I am fortunate to be advised by **[Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html)**. Visit his [personal homepage](https://gcheng-nwpu.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=en).
+I am fortunate to be advised by **[Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html)**.<br />
+Visit his [personal homepage](https://gcheng-nwpu.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=en).
 
 ## What I'm exploring
 

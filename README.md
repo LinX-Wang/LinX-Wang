@@ -56,16 +56,16 @@ Visit his [personal homepage](https://gcheng-nwpu.github.io/) or [Google Scholar
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github_dark" alt="GitHub profile details" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github" alt="GitHub profile details" width="95%" />
 
 <br />
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinX-Wang&theme=github_dark" alt="GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinX-Wang&theme=github_dark" alt="Top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinX-Wang&theme=github" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinX-Wang&theme=github" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=LinX-Wang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=LinX-Wang&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280&sideNums=111827&currStreakNum=111827&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14B8A6,45:2563EB,100:F59E0B&text=LinX&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Remote%20Sensing%20%7C%20Multimodal%20AI%20%7C%20Trustworthy%20Intelligence&descAlignY=58&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Incoming+direct+Ph.D.+student+at+NPU;B.Eng.+from+Hohai+University;Building+reliable+vision-language+intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Direct+Ph.D.+student+%E2%80%A2+Year+1+%E2%80%A2+NPU+Automation;B.Eng.+from+Hohai+University;Exploring+agents+and+multimodal+large+language+models" alt="Typing SVG" />
 
 <br />
 
@@ -17,24 +17,18 @@
 
 I am **Wang Shuai**, also known as **LinX** on GitHub.
 
-I received my bachelor's degree from **Hohai University** and will start a direct Ph.D. program at **Northwestern Polytechnical University (NPU)** in **September 2026**.
+I received my bachelor's degree from **Hohai University** and am now a **first-year direct Ph.D. student** in the **School of Automation, Northwestern Polytechnical University (NPU)**.
 
-My current interests center on remote sensing, multimodal learning, vision-language models, and reliable AI systems.
+I am advised by [Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html). You can also visit his [personal homepage](https://gcheng-nwpu.github.io/) and [Google Scholar profile](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=en).
+
+My research interests are currently **to be determined**, with an emerging focus on **AI agents** and **multimodal large language models**.
 
 ## Focus
 
 <table>
   <tr>
-    <td><strong>Remote Sensing</strong></td>
-    <td>Earth observation, image understanding, and geospatial intelligence.</td>
-  </tr>
-  <tr>
-    <td><strong>Multimodal AI</strong></td>
-    <td>Vision-language models, multimodal reasoning, and domain adaptation.</td>
-  </tr>
-  <tr>
-    <td><strong>Trustworthy Models</strong></td>
-    <td>Hallucination, reliability, evaluation, and safer model behavior.</td>
+    <td><strong>Research Interests</strong></td>
+    <td>To be determined — currently exploring AI agents and multimodal large language models.</td>
   </tr>
 </table>
 
@@ -68,7 +62,8 @@ My current interests center on remote sensing, multimodal learning, vision-langu
 - **Name on GitHub:** LinX
 - **Academic name:** Shuai Wang / Wang Shuai
 - **Education:** Hohai University -> Northwestern Polytechnical University
-- **Starting point:** Direct Ph.D. program, September 2026
+- **Current status:** First-year direct Ph.D. student, School of Automation
+- **Advisor:** [Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html)
 
 <div align="center">
 

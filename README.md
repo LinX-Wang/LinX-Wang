@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14B8A6,45:2563EB,100:F59E0B&text=LinX&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Remote%20Sensing%20%7C%20Multimodal%20AI%20%7C%20Trustworthy%20Intelligence&descAlignY=58&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14B8A6,45:2563EB,100:F59E0B&text=LinX&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=AI%20Agents%20%7C%20Multimodal%20LLMs%20%7C%20Open%20Exploration&descAlignY=58&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Direct+Ph.D.+student+%E2%80%A2+Year+1+%E2%80%A2+NPU+Automation;B.Eng.+from+Hohai+University;Exploring+agents+and+multimodal+large+language+models" alt="Typing SVG" />
 

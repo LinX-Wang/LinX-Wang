@@ -1,72 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14B8A6,45:2563EB,100:F59E0B&text=LinX&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=AI%20Agents%20%7C%20Multimodal%20LLMs%20%7C%20Open%20Exploration&descAlignY=58&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,45:1D4ED8,100:06B6D4&text=LinX&fontColor=FFFFFF&fontSize=78&fontAlignY=38&desc=Agents%20%C2%B7%20Multimodal%20LLMs%20%C2%B7%20Open%20Exploration&descAlignY=60&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Direct+Ph.D.+student+%E2%80%A2+Year+1+%E2%80%A2+NPU+Automation;B.Eng.+from+Hohai+University;Exploring+agents+and+multimodal+large+language+models" alt="Typing SVG" />
+<h1>Hi, I'm LinX 👋</h1>
 
-<br />
+<p><strong>Shuai Wang</strong> · Direct Ph.D. Student · School of Automation, Northwestern Polytechnical University</p>
 
-<a href="https://github.com/LinX-Wang">
-  <img src="https://img.shields.io/badge/GitHub-LinX--Wang-111827?style=flat-square&logo=github" alt="GitHub LinX-Wang" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=LinX-Wang&style=flat-square&color=2563EB" alt="Profile views" />
+<p>
+  <a href="https://github.com/LinX-Wang"><img src="https://img.shields.io/badge/GitHub-LinX--Wang-0f172a?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://teacher.nwpu.edu.cn/gongcheng.html"><img src="https://img.shields.io/badge/Advisor-Prof.%20Cheng%20Gong-1d4ed8?style=for-the-badge&logo=academia" alt="Advisor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=LinX-Wang&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=1D4ED8&center=true&vCenter=true&width=780&lines=First-year+direct+Ph.D.+student+at+NPU;Exploring+AI+agents+and+multimodal+large+language+models;Building+curious%2C+useful%2C+and+reliable+intelligence" alt="Typing SVG" />
 
 </div>
 
-## Hi, I'm LinX
+<br />
 
-I am **Wang Shuai**, also known as **LinX** on GitHub.
+## About me
 
-I received my bachelor's degree from **Hohai University** and am now a **first-year direct Ph.D. student** in the **School of Automation, Northwestern Polytechnical University (NPU)**.
+I am **Wang Shuai**, also known as **LinX** on GitHub. After earning my B.Eng. from **Hohai University**, I joined the **School of Automation at Northwestern Polytechnical University (NPU)** as a first-year direct Ph.D. student.
 
-I am advised by [Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html). You can also visit his [personal homepage](https://gcheng-nwpu.github.io/) and [Google Scholar profile](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=en).
+I am fortunate to be advised by **[Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html)**. Visit his [personal homepage](https://gcheng-nwpu.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=en).
 
-My research interests are currently **to be determined**, with an emerging focus on **AI agents** and **multimodal large language models**.
-
-## Focus
+## What I'm exploring
 
 <table>
   <tr>
-    <td><strong>Research Interests</strong></td>
-    <td>To be determined — currently exploring AI agents and multimodal large language models.</td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Agents</h3>
+      <p>Agentic systems, tool use, planning, and interaction.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Multimodal LLMs</h3>
+      <p>Multimodal understanding, reasoning, and grounded intelligence.</p>
+    </td>
   </tr>
 </table>
+
+> My research direction is **still taking shape** — these are the areas I am currently exploring.
 
 ## Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,git,linux,latex,vscode&perline=8" alt="Toolbox icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,git,linux,latex,vscode&perline=8" alt="Python, PyTorch, OpenCV, scikit-learn, Git, Linux, LaTeX, VS Code" />
 
 </div>
 
-## GitHub
+## GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github" alt="LinX GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github_dark" alt="GitHub profile details" width="95%" />
 
 <br />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinX-Wang&theme=github" alt="LinX GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinX-Wang&theme=github" alt="LinX repository languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinX-Wang&theme=github_dark" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinX-Wang&theme=github_dark" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=LinX-Wang&hide_border=true&date_format=%5BY.%5Dn.j&ring=2563EB&fire=F59E0B&currStreakLabel=14B8A6" alt="LinX GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=LinX-Wang&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 
 </div>
 
-## Notes
-
-- **Name on GitHub:** LinX
-- **Academic name:** Shuai Wang / Wang Shuai
-- **Education:** Hohai University -> Northwestern Polytechnical University
-- **Current status:** First-year direct Ph.D. student, School of Automation
-- **Advisor:** [Prof. Cheng Gong](https://teacher.nwpu.edu.cn/gongcheng.html)
+<br />
 
 <div align="center">
 
-<sub>Learning, building, and keeping curiosity alive.</sub>
+<sub>Learning · building · staying curious</sub>
 
 </div>

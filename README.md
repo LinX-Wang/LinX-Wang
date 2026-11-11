@@ -10,26 +10,26 @@
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=1D4ED8&center=true&vCenter=true&width=820&lines=First-year+direct+Ph.D.+student+at+NPU;Exploring+multimodal+agents+and+grounded+intelligence;Connecting+AI+with+Earth+observation" alt="Typing introduction" />
+<img src="./assets/intro-typing-compact.svg" alt="Typing introduction" />
 
 </div>
 
-<br />
+
 
 ## About me
 
-I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Polytechnical University. I received my B.Eng. from **Hohai University** and am advised by [Prof. Cheng Gong](https://gcheng-nwpu.github.io/).
+I am **Shuai Wang (LinX)**, a first-year direct-entry Ph.D. student at **Northwestern Polytechnical University**, advised by [Prof. Cheng Gong](https://gcheng-nwpu.github.io/). I received my B.Eng. from **Hohai University**.
 
 ## Research interests
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/research-agents-v2.svg" width="100%" alt="Multimodal perception, reasoning and action" /><h3>Multimodal Agents</h3>
+      <img src="./assets/research-agents-ai-v1.webp" width="100%" alt="Multimodal perception, reasoning and action" /><h3>Multimodal Agents</h3>
       <p>Visual agents, vision-language models, spatial reasoning, and 3D understanding.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/research-earth-v2.svg" width="100%" alt="Earth observation and geospatial understanding" /><h3>AI for Earth Observation</h3>
+      <img src="./assets/research-earth-ai-v1.webp" width="100%" alt="Earth observation and geospatial understanding" /><h3>AI for Earth Observation</h3>
       <p>Remote sensing, geospatial intelligence, and disaster assessment.</p>
     </td>
   </tr>

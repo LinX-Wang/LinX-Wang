@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/linx-banner.svg" alt="LinX — Multimodal Agents and AI for Earth Observation" width="100%" />
+<img src="./assets/linx-banner-v2.svg" alt="LinX — Multimodal Agents and AI for Earth Observation" width="100%" />
 
 <p><strong>Shuai Wang</strong> · Direct Ph.D. Student · School of Automation, Northwestern Polytechnical University</p>
 
 <p>
   <a href="https://github.com/LinX-Wang"><img src="https://img.shields.io/badge/GitHub-LinX--Wang-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://teacher.nwpu.edu.cn/gongcheng.html"><img src="https://img.shields.io/badge/Advisor-Prof.%20Cheng%20Gong-1d4ed8?style=for-the-badge" alt="Advisor Prof. Cheng Gong" /></a>
-  <img src="https://komarev.com/ghpvc/?username=LinX-Wang&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=1D4ED8&center=true&vCenter=true&width=820&lines=First-year+direct+Ph.D.+student+at+NPU;Exploring+multimodal+agents+and+grounded+intelligence;Connecting+AI+with+Earth+observation" alt="Typing introduction" />
@@ -25,11 +25,11 @@ I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Po
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/research-agents.svg" width="44" height="44" alt="Multimodal agents" /><h3>Multimodal Agents</h3>
+      <img src="./assets/research-agents-v2.svg" width="100%" alt="Multimodal perception, reasoning and action" /><h3>Multimodal Agents</h3>
       <p>Visual agents, vision-language models, spatial reasoning, and 3D understanding.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/research-earth.svg" width="44" height="44" alt="Earth observation" /><h3>AI for Earth Observation</h3>
+      <img src="./assets/research-earth-v2.svg" width="100%" alt="Earth observation and geospatial understanding" /><h3>AI for Earth Observation</h3>
       <p>Remote sensing, geospatial intelligence, and disaster assessment.</p>
     </td>
   </tr>
@@ -46,7 +46,7 @@ I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Po
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" title="linux" /> 
 <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="latex" title="latex" /> 
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" title="vscode" /> 
-<a href="https://github.com/makecindy/cindy"><img src="./assets/tool-cindy.png" width="48" height="48" alt="Cindy" title="Cindy" /></a>
+<a href="https://github.com/makecindy/cindy"><img src="./assets/tool-cindy-v2.png" width="48" height="48" alt="Cindy" title="Cindy" /></a>
 <a href="https://github.com/openai/codex"><img src="./assets/tool-codex.svg" width="48" height="48" alt="Codex" title="Codex" /></a>
 </p>
 
@@ -86,4 +86,12 @@ I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Po
 
 <br />
 
-<div align="center"><sub>Learning · building · staying curious</sub></div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=80&amp;color=0:06142E,50:123E70,100:007D92" width="100%" alt="LinX footer" />
+
+<a href="https://github.com/LinX-Wang"><img src="https://komarev.com/ghpvc/?username=LinX-Wang&amp;style=for-the-badge&amp;color=007D92&amp;label=PROFILE+VIEWS" alt="Profile view counter" /></a>
+
+<sub>Learning · building · staying curious</sub>
+
+</div>

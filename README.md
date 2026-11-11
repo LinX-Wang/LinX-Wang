@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,45:1D4ED8,100:06B6D4&text=LinX&fontColor=FFFFFF&fontSize=78&fontAlignY=38&desc=Multimodal%20Agents%20%C2%B7%20AI%20for%20Earth%20Observation&descAlignY=60&descSize=17&animation=fadeIn" alt="LinX profile banner" width="100%" />
-
-<img src="./assets/linx-symbol.svg" width="108" alt="LinX personal mark" />
-
-<h1>Hi, I'm LinX</h1>
+<img src="./assets/linx-banner.svg" alt="LinX — Multimodal Agents and AI for Earth Observation" width="100%" />
 
 <p><strong>Shuai Wang</strong> · Direct Ph.D. Student · School of Automation, Northwestern Polytechnical University</p>
 
@@ -29,11 +25,11 @@ I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Po
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Multimodal Agents</h3>
+      <img src="./assets/research-agents.svg" width="44" height="44" alt="Multimodal agents" /><h3>Multimodal Agents</h3>
       <p>Visual agents, vision-language models, spatial reasoning, and 3D understanding.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · AI for Earth Observation</h3>
+      <img src="./assets/research-earth.svg" width="44" height="44" alt="Earth observation" /><h3>AI for Earth Observation</h3>
       <p>Remote sensing, geospatial intelligence, and disaster assessment.</p>
     </td>
   </tr>
@@ -41,16 +37,18 @@ I am **Shuai Wang (LinX)**, a first-year direct Ph.D. student at Northwestern Po
 
 ## Toolbox
 
-<div align="center">
-
-<a href="https://github.com/makecindy/cindy"><img src="https://img.shields.io/badge/Cindy-AI%20Workspace-0A7892?style=for-the-badge&logo=sparkles&logoColor=white" alt="Cindy AI Workspace" /></a>
-<a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-AI%20Coding%20Agent-172554?style=for-the-badge&logo=openai&logoColor=white" alt="Codex AI Coding Agent" /></a>
-
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,git,linux,latex,vscode&perline=8" alt="Python, PyTorch, OpenCV, scikit-learn, Git, Linux, LaTeX, and VS Code" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" title="python" /> 
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" title="pytorch" /> 
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" title="opencv" /> 
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" title="sklearn" /> 
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" title="git" /> 
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" title="linux" /> 
+<img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="latex" title="latex" /> 
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" title="vscode" /> 
+<a href="https://github.com/makecindy/cindy"><img src="./assets/tool-cindy.png" width="48" height="48" alt="Cindy" title="Cindy" /></a>
+<a href="https://github.com/openai/codex"><img src="./assets/tool-codex.svg" width="48" height="48" alt="Codex" title="Codex" /></a>
+</p>
 
 ## Selected projects
 

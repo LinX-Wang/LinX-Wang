@@ -65,6 +65,14 @@ I am **Shuai Wang (LinX)**, a first-year direct-entry Ph.D. student at **Northwe
       <sub>Python · Windows · macOS</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">最优化方法 · 西北工业大学博士课程学习与复习资料</a></h3>
+      <p>2026 年秋季整理。授课教师：赵俊锋老师。课程复习手册包含老师划定重点、完整计算例题与历年真题，另附独立真题 PDF、平板手写要点、习题练习及课堂课件。</p>
+      <p><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">查看课程资料</a> · <a href="https://github.com/LinX-Wang/nwpu-optimization-methods/blob/main/最优化方法_历年真题.pdf">阅读历年真题</a></p>
+      <sub>2019 春 · 2020 春 · 2023 秋 · 2025 春 · 2026 春历年试题 · 2026 秋考试回忆</sub>
+    </td>
+  </tr>
 </table>
 
 ## GitHub at a glance

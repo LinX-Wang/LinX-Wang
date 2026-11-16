@@ -79,7 +79,7 @@ I am **Shuai Wang (LinX)**, a first-year direct-entry Ph.D. student at **Northwe
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinX-Wang&theme=github" alt="GitHub profile details" width="95%" />
+<img src="./assets/profile-details-school.svg" alt="GitHub profile details · shuai_wang@mail.nwpu.edu.cn" width="95%" />
 
 <br />
 

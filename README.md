@@ -16,42 +16,38 @@
 
 
 
-## About me
+## 👋 About me
 
 I am **Shuai Wang (LinX)**, a first-year direct-entry Ph.D. student at **Northwestern Polytechnical University**, advised by [Prof. Cheng Gong](https://gcheng-nwpu.github.io/). I received my B.Eng. from **Hohai University**.
 
-Outside research, I enjoy **vibe coding**: teaming up with AI to turn everyday needs into small tools I actually use. A repetitive task, a missing feature, an interface that could feel better — all good excuses to start a new project. 🛠️
-
-I also occasionally share my **course notes and exam revision materials for free**. If something helped me learn or saved me time, I hope it can help someone else too.
-
-## Beyond research: my little workshop ✨
-
-> **有需求，就自己 + AI 做出来。**<br>
-> Spot a need. Build it with AI. Use it, polish it, share it.
-
-| 🧩 Small tools, real needs | 🤖 Vibe coding enthusiast | 📚 Notes worth sharing |
-| --- | --- | --- |
-| 自己用得上的小工具，值得认真手搓。 | 和 AI 一起把想法变成能用的东西，再慢慢打磨。 | 偶尔开源课程笔记和复习资料，免费分享，少走弯路。 |
-| Practical tools for my own workflow, built with care. | From an idea to a working tool — with AI along the way. | Occasional course notes and revision resources, freely shared. |
-
-This GitHub is part research notebook, part personal workshop, and part study-material shelf. Expect useful little projects, experiments, and a few things that started with **“I wish there were a tool for this.”**
-
-## Research interests
+## 🔬 Research interests
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/research-agents-ai-v1.webp" width="100%" alt="Multimodal perception, reasoning and action" /><h3>Multimodal Agents</h3>
+      <img src="./assets/research-agents-ai-v1.webp" width="100%" alt="Multimodal perception, reasoning and action" /><h3>🤖 Multimodal Agents</h3>
       <p>Visual agents, vision-language models, spatial reasoning, and 3D understanding.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/research-earth-ai-v1.webp" width="100%" alt="Earth observation and geospatial understanding" /><h3>AI for Earth Observation</h3>
+      <img src="./assets/research-earth-ai-v1.webp" width="100%" alt="Earth observation and geospatial understanding" /><h3>🌍 AI for Earth Observation</h3>
       <p>Remote sensing, geospatial intelligence, and disaster assessment.</p>
     </td>
   </tr>
 </table>
 
-## Toolbox
+## ✨ Beyond research: my little workshop
+
+> **Spot a need. Build it with AI. Use it, polish it, share it.**
+
+Outside research, I enjoy **vibe coding**: teaming up with AI to turn everyday needs into small tools I actually use. A repetitive task, a missing feature, an interface that could feel better — all good excuses to start building.
+
+| 🧩 Small tools, real needs | 🤖 Vibe coding enthusiast | 📚 Notes worth sharing |
+| --- | --- | --- |
+| Practical tools for my own workflow, built with care. | From a rough idea to something useful — with AI along the way. | Course notes and exam revision materials, freely shared when I have something helpful. |
+
+This GitHub is part research notebook, part personal workshop, and part study-material shelf. Expect useful little projects, experiments, and a few things that started with **“I wish there were a tool for this.”** If something helped me learn or saved me time, I hope it can help someone else too.
+
+## 🛠️ Toolbox
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" title="python" /> 
@@ -66,40 +62,39 @@ This GitHub is part research notebook, part personal workshop, and part study-ma
 <a href="https://github.com/openai/codex"><img src="./assets/tool-codex.svg" width="48" height="48" alt="Codex" title="Codex" /></a>
 </p>
 
-## Selected projects
+## 🚀 Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LinX-Wang/gpt-relay-price-monitor">GPT Relay Price Monitor</a></h3>
+      <h3>📊 <a href="https://github.com/LinX-Wang/gpt-relay-price-monitor">GPT Relay Price Monitor</a></h3>
       <p>Self-hosted monitoring for AI relay pricing, balances, token usage, cost, latency, and cache rates.</p>
       <sub>Python · TypeScript · HTML</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LinX-Wang/linx-remote-manager">LinX Remote</a></h3>
+      <h3>🖥️ <a href="https://github.com/LinX-Wang/linx-remote-manager">LinX Remote</a></h3>
       <p>Manage remote Codex projects with provider setup, SSH, reverse tunnels, environment preparation, and server resource views.</p>
       <sub>Python · Windows · macOS</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/LinX-Wang/linx-ui">LinX UI · A visual language for my tools</a></h3>
+      <h3>🎨 <a href="https://github.com/LinX-Wang/linx-ui">LinX UI · A visual language for my tools</a></h3>
       <p>A desktop-first UI kit distilled from the tools I use: consistent typography, light and dark themes, orderly layouts, and a distinct maker identity. Small tools deserve a comfortable interface too.</p>
-      <p>把自己喜欢的界面风格整理下来，让下一款小工具也能用得舒服、看得顺眼。</p>
       <sub>CSS · JavaScript · Design guidelines</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">最优化方法 · 西北工业大学博士课程学习与复习资料</a></h3>
-      <p>2026 年秋季整理。授课教师：赵俊锋老师。课程复习手册包含老师划定重点、完整计算例题与历年真题，另附独立真题 PDF、平板手写要点、习题练习及课堂课件。</p>
-      <p><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">查看课程资料</a> · <a href="https://github.com/LinX-Wang/nwpu-optimization-methods/blob/main/最优化方法_历年真题.pdf">阅读历年真题</a></p>
-      <sub>2019 春 · 2020 春 · 2023 秋 · 2025 春 · 2026 春历年试题 · 2026 秋考试回忆</sub>
+      <h3>📚 <a href="https://github.com/LinX-Wang/nwpu-optimization-methods">Optimization Methods · NWPU Ph.D. Course Notes</a></h3>
+      <p>A freely shared study collection compiled in Fall 2026: a revision guide, worked examples, past exams, handwritten notes, practice exercises, and lecture slides. Course taught by Prof. Junfeng Zhao.</p>
+      <p><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">Explore the materials</a> · <a href="https://github.com/LinX-Wang/nwpu-optimization-methods/blob/main/最优化方法_历年真题.pdf">Browse past exams</a></p>
+      <sub>Past exams: Spring 2019 · Spring 2020 · Fall 2023 · Spring 2025 · Spring 2026 · Fall 2026 exam recollections</sub>
     </td>
   </tr>
 </table>
 
-## GitHub at a glance
+## 📈 GitHub at a glance
 
 <div align="center">
 

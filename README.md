@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/linx-banner-v2.svg" alt="LinX — Multimodal Spatial Intelligence" width="100%" />
+<img src="./assets/linx-banner-v3.svg" alt="LinX — Multimodal Spatial Intelligence" width="100%" />
 
 <p><strong>Shuai Wang</strong> · Direct Ph.D. Student · School of Automation, Northwestern Polytechnical University</p>
 

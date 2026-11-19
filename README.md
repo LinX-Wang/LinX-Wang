@@ -87,7 +87,7 @@ This GitHub is part research notebook, part personal workshop, and part study-ma
   <tr>
     <td colspan="2" valign="top">
       <h3>📚 <a href="https://github.com/LinX-Wang/nwpu-optimization-methods">Optimization Methods · NWPU Ph.D. Course Notes</a></h3>
-      <p>A freely shared study collection compiled in Fall 2026: a revision guide, worked examples, past exams, handwritten notes, practice exercises, and lecture slides. Course taught by Prof. Junfeng Zhao.</p>
+      <p>A freely shared study collection compiled in Fall 2026: a revision guide with exam priorities, worked examples and past exams, plus the course textbook and handwritten notes and practice exercises.</p>
       <p><a href="https://github.com/LinX-Wang/nwpu-optimization-methods">Explore the materials</a> · <a href="https://github.com/LinX-Wang/nwpu-optimization-methods/blob/main/最优化方法_历年真题.pdf">Browse past exams</a></p>
       <sub>Past exams: Spring 2019 · Spring 2020 · Fall 2023 · Spring 2025 · Spring 2026 · Fall 2026 exam recollections</sub>
     </td>

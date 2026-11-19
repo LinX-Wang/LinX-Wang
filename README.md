@@ -109,6 +109,16 @@ This GitHub is part research notebook, part personal workshop, and part study-ma
 
 <img src="https://streak-stats.demolab.com?user=LinX-Wang&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280&sideNums=111827&currStreakNum=111827&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 
+<br />
+
+<p><strong>🐍 One contribution at a time.</strong><br /><sub>A little snake exploring my year of building, learning, and sharing.</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinX-Wang/LinX-Wang/snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinX-Wang/LinX-Wang/snake-output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/LinX-Wang/LinX-Wang/snake-output/github-contribution-grid-snake.svg" alt="Animated snake exploring LinX-Wang's GitHub contribution calendar" width="100%" />
+</picture>
+
 </div>
 
 <br />
